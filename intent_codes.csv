@@ -4,9 +4,9 @@
 2,2,ranking,range
 3,4,kitchen_type,values
 4,5,business_type,values
-5,6,day,values
-6,7,time,values
-7,8,numberOfPeople,values
+5,6,day,decimal
+6,7,time,decimal
+7,8,numberOfPeople,decimal
 8,10,veggy,bool
 9,11,GoodForKids,bool
 10,13,romantic,bool
