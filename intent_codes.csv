@@ -1,16 +1,26 @@
-,intent_code,intent_name,intent_type
-0,0,other,
-1,1,price,range
-2,2,ranking,range
-3,4,kitchen_type,values
-4,5,business_type,values
-5,6,day,decimal
-6,7,time,decimal
-7,8,numberOfPeople,decimal
-8,10,veggy,bool
-9,11,GoodForKids,bool
-10,13,romantic,bool
-11,15,WiFi,bool
-12,17,outdoor,bool
-13,19,parking,bool
-14,66,yes/no,bool
+intent_code,intent_name,intent_desc,intent_type,similar
+0,other,,,
+1,price,pricing,range,
+2,ranking,rates and reviews,range,
+4,kitchen_type,"the kitchen type (American, Chinese…)",values,
+5,business_type,"the restaurant type (restaurant, Pizza, bar of café)",values,
+6,day,reservation day,,
+7,time,reservation time,,
+8,people,number of people,bool,
+10,veggy,vegeterian preference,bool,
+11,kids,is it suitable for kids,bool,
+13,romantic,is it a romantic place,bool,
+15,wifi,does it offer WiFi,bool,
+17,outdoor,does it have outdoor seating,bool,
+19,parking,does it have a parking lot,bool,
+-1,food,specific food and dishes,excluded,"4, 10, 2"
+-2,distance,distances,excluded,"19, 2, 1"
+-3,service,service and style,excluded,"2, 5, 11, 13"
+-4,view,view and scenary,excluded,"17, 13, 19"
+-5,payment,payment methods,excluded,"1, 5, 15"
+-6,dietary,dietary and health restrictions,excluded,"10, 4, 5"
+-7,smoking,smoking,excluded,"17, 11, 13, 5"
+-8,pets,if pets are welcome,excluded,"17, 19, 11"
+-9,music,music and shows,excluded,"17, 5, 2, 13"
+-10,promotions,promotions,excluded,"1, 2"
+-11,accessibility ,accessibility ,excluded,"19, 17, 5"
