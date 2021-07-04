@@ -1,0 +1,46 @@
+,sentence_input,label
+0,yes,yes
+1,sure,yes
+2,affirmative,yes
+3,agreed,yes
+4,of course,yes
+5,very well,yes
+6,very good,yes
+7,absolutely,yes
+8,sure thing,yes
+9,definitely,yes
+10,just so,yes
+11,true,yes
+12,yeah,yes
+13,yea,yes
+14,surely,yes
+15,just so,yes
+16,yep,yes
+17,by all means,yes
+18,okay,yes
+19,good,yes
+20,fine,yes
+21,amen,yes
+22,great,yes
+23,fantastic,yes
+24,amazing,yes
+25,no,no
+26,nah,no
+27,na,no
+28,nay,no
+29,never,no
+30,not,no
+31,not at all,no
+32,not even a little bit,no
+33,not really,no
+34,atrociuos,no
+35,horrible,no
+36,bad,no
+37,terrible,no
+38,dreadful,no
+39,horrifying,no
+40,awful,no
+41,poor,no
+42,repulsive,no
+43,horrid,no
+44,disturbing,no
