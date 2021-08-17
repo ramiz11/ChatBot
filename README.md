@@ -5,4 +5,4 @@ picked restaurant with required preferences, the references are either answered 
 in the unguided phase of the chat, this phase enables a fun way of communacation, that lets the user freely enter whatever he wants
 and basically actually chat with the chatbot and not just fill commands. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17rvxRWX8_DrzYl_PhPSfvR9rVXrEnsPC#scrollTo=6rOxlbc4arpp)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b3hUmiS27xq7576Zh11yEtrB_t2prFR1#scrollTo=56eRQiuEKV9K)
