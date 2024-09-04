@@ -1,4 +1,4 @@
-# Restaurant ChatBot
+# Restaurant Recommendation ChatBot
 
 • Implemented a task-oriented NLP chatbot which got an outstanding project award, and was presented to many different forums.
 • Designed the chatbot with both an NLU component and a Dialogue-management component.
